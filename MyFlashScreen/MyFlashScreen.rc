@@ -1,0 +1,5 @@
+#include <Windows.h>
+#include "MyFlashScreen.h"
+MYICON ICON icon.ico
+MYBITMAP BITMAP bitmap.bmp
+
